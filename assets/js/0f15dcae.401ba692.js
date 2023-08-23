@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvzbot_docusaurus=self.webpackChunkvzbot_docusaurus||[]).push([[3916],{7781:o=>{o.exports=JSON.parse('{"permalink":"/vzbot-docusaurus/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
